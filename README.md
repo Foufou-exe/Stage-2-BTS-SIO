@@ -14,7 +14,7 @@ Dynamisme Grâce à notre système de gestion et d’intervention unique, nous v
 
 ## Organigramme
 
-![Organigramme](https://raw.githubusercontent.com/Foufou-exe/Stage-2-BTS-SIO/32a5845fe632b74a2498173a5e61cc13a9aa0480/organigramme.svg?token=ASHVK6PJFIKIZQA3JVSNUF3CD2MT2)
+![Organigramme](https://raw.githubusercontent.com/Foufou-exe/Stage-2-BTS-SIO/f7d0f2d19cfafe78c79fe4d083f59cb92d998e7f/organigramme.svg?token=ASHVK6PDXPVYXWSG2S7N3HTCGSLTK)
 
 ## Missions
 
